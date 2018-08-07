@@ -1,0 +1,7 @@
+
+<button mat-button (click)="fetchImage()">Click here</button>
+<br>
+<img width="600px"
+     *ngIf="(data$ | async) as data"
+     src="{{data?.image}}"
+     alt="">
