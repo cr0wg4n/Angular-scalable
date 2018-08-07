@@ -1,7 +1,7 @@
 # NgColombia - Scalable Architecture
 
 ## [Slides](https://slides.com/jdjuan/scalable-workshop#/)
-##https://stackblitz.com/github/jdjuan/scalable-angular
+https://stackblitz.com/github/cr0wg4n/Angular-scalable
 ## Difficulty: Development 😊
 
 ### Step 1
